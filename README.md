@@ -4,7 +4,7 @@ A tiny, fast and portable disk-usage explorer for Windows. Browse your folders a
 
 Think of it as a graphical `du -h --max-depth=1` that you can navigate with the mouse and for Windows.
 
-![DiskUsage screenshot](docs/screenshot.png)
+![DiskUsage screenshot](./docs/screenshot.png)
 
 ## What is it and what is it for?
 
